@@ -1,15 +1,9 @@
-**About me: Software Supply Chain Security PM. Cryptography nerd. Puzzle and ice cream lover.**
+**Software Supply Chain Security PM. Cryptography nerd. Puzzle and ice cream lover.**
 
-:thinking: Product Manager at GitHub
+Sounds like :ear:: "catch a rough ski"
 
-:closed_lock_with_key: Working on software supply chain security
+![giphy (1)](https://user-images.githubusercontent.com/15946341/84716535-39b5f480-af28-11ea-9bc9-c6931ecc6612.gif)
 
-:woman: Pronouns: she/her
-
-:ear: Sounds like: "catch a rough ski"
-
-:sparkles: I love :icecream:
-
-:computer: My working style: If something is incorrect, or incomplete - just fix it. I prefer suggested edits and PRs over comments or pings.
+**If something is incorrect, or incomplete - just fix it. I prefer suggested edits and PRs over comments or pings.**
 
 [Looking for slides from a talk I gave?](https://github.com/mayakacz/presentation-slides)
