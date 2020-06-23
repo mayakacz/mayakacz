@@ -6,4 +6,6 @@ Sounds like :ear:: "catch a rough ski"
 
 **If something is incorrect, or incomplete - just fix it. I prefer suggested edits and PRs over comments or pings.**
 
+:hourglass: I hate meetings.
+
 [Looking for slides from a talk I gave?](https://github.com/mayakacz/presentation-slides)
